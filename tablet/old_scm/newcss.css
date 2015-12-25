@@ -1,0 +1,54 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 19-Mar-2014, 15:04:36
+    Author     : test
+*/
+
+#search {
+    position:relative;
+    display:inline-block;
+}
+/*
+input.sfield{
+    background-color:#fff;  
+    border-color:grey;
+    border-style:solid;
+    border-width:1px 0 1px 1px;
+    font-size:0.9em;
+    line-height:1em;
+    height:5em;
+    position:relative;
+    display:inline-block;
+}
+
+input.sbutton{
+    background-color:grey;
+    height:22em;  //that's one
+    border:none;    
+    color:#fff;
+    position:relative;
+    left:-6px;
+    bottom:-1px;
+    height:2em; //that's two
+    
+    display:inline-block;
+}
+*/
+
+input[type="submit"], 
+input[type="text"],
+input.submit,
+input.text {
+   
+    width:5em;
+    height:4em;
+    padding:0;
+    margin:0;
+    position:relative;
+    overflow:hidden;
+    top:0px;
+}

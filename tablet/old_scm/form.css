@@ -1,0 +1,11 @@
+
+
+#box_right{
+    /*position: absolute;*/
+    marign: 10px auto;
+    width: 60%;
+    position:fixed;
+//top:400px;
+ bottom: 0px;
+right:180px;  /* was 280px*/
+}

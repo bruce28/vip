@@ -1,0 +1,43 @@
+#form_stock {font-style:italic; color:blue; 
+width:730px;
+padding:10px;
+border:2px solid gray;
+/*
+margin-top:-295px;
+top:20%;
+*/
+margin:10px auto;
+
+position:absolute;
+    
+}
+
+
+#buttons {
+position:absolute;
+border:3px solid gray;
+marign-top:100px;
+top:17%;
+
+/*
+
+*/
+}
+
+#all {
+position: relative;
+padding:10px;
+border:2px solid gray;
+/*
+margin-top:-295px;
+top:20%;
+*/
+margin:10px;
+}
+
+#buttons.hidden {
+    display: none;
+
+/*
+input { margin: 0 auto; display: block; }
+*/
